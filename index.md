@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## About Me
 
 You can use the [editor on GitHub](https://github.com/brianjtarte/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## What is this?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These are my reading notes for my daily readings.
 
-```markdown
-Syntax highlighted code block
+## Growth Mindset
+
+Growth mindset in my own words
 
 # Header 1
 ## Header 2
