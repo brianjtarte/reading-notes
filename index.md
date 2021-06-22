@@ -16,7 +16,7 @@ Growth mindset in my own words
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Golf
 - List
 
 1. Numbered
