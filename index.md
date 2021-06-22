@@ -8,6 +8,7 @@ On a more personal level, I have a ***beautiful*** fiance named Tiara, who is a 
 1. Chomper (American Bulldog/Pitbull mix). He's a gentle giant and easily the laziest dog I have ever met.
 2. Missy (Pitbull/Something high energy/super fast mix). We rescued her, and she must be near a human heartbeat at all times. She's also missing quite a few brain cells.
 3. Molly (Pomapoo). A tiny terror who runs the household.
+4. ![doggos](https://i.ibb.co/rHD44W9/doggos.jpg)
 
 ## What is this?
 
