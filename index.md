@@ -21,3 +21,7 @@ To me, the "Growth Mindset" is about acknowledging your natural skills and abili
 - Commit to effort. When effort ceases to exist, you cannot maintain a growth mindset.
 - Reset to get unstuck. Instead of pushing problems aside to be dealt with later, take a step back, practice mindfulness, and reapproach the problem after I have cleared my headspace.
 - Ask myself, "What made me smile today?" and then once I've answered that question, "What would you have done differently today?"
+
+
+[Find my GitHub Profile HERE](https://www.github.com/brianjtarte)
+
