@@ -1,38 +1,21 @@
-## About Me
+# About Me
 
-You can use the [editor on GitHub](https://github.com/brianjtarte/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Brian, and I'm here in an effort to change my career path to something I will find more rewarding and challenging. I have spent the last decade in Supply Chain Operations, with a deep understanidng of e-commerce, and prior to that, I'd served 5 years in Marine Corps aviation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On a more personal level, I have a ***beautiful*** fiance named Tiara, who is a wonderful bonus mom to my 7 year old son, Hunter, and is pregnant with our first child together, Emma.
+
+##### We have 3 dogs, and their names are:
+1. Chomper (American Bulldog/Pitbull mix). He's a gentle giant and easily the laziest dog I have ever met.
+2. Missy (Pitbull/Something high energy/super fast mix). We rescued her, and she must be near a human heartbeat at all times. She's also missing quite a few brain cells.
+3. Molly (Pomapoo). A tiny terror who runs the household.
 
 ## What is this?
 
-These are my reading notes for my daily readings.
+This page is where you can find notes from my daily readings.
 
 ## Growth Mindset
 
-Growth mindset in my own words
+To me, the "Growth Mindset" is about acknowledging your natural skills and abilities, recognizing that they don't define you, rather they are the foundation that you will build off of. It is understanding that you **CAN** achieve just about anything if you approach it with the proper frame of mind. It is understanding your current limitations and what resources you can leverage to flip them on their head. It is understanding that you only fail if you stop trying; if instead you look at your failures as teachable moments and apply what you've learned, you can find success in every facet of life.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Golf
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brianjtarte/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Staying in the Growth Mindset
+- Commit to 
