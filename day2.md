@@ -1,4 +1,4 @@
-#Day 2 Reading Notes
+#  Day 2 Reading Notes
 
 ## What we learned in Day 2
 
