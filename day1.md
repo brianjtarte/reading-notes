@@ -12,3 +12,5 @@
 ### Mark-up with Markdown ###
 
 Markdown is a syntax that allows the user to style text on the web. It is similar in nature to HTML, but is much easer to read/write.
+
+[Home Page](index.md)
