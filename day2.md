@@ -11,3 +11,5 @@ Today, we learned how to use the basic functions of the terminal, which is a **t
 - variety of themes; allows the user to customize the interface (dark background and brightly colored text, for example)
 - variety of available extensions; these are add-ons that make writing code more efficient for the user
 
+[Home Page](index.md)
+
