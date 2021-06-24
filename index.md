@@ -26,3 +26,5 @@ To me, the "Growth Mindset" is about acknowledging your natural skills and abili
 
 [Find my GitHub Profile HERE](https://www.github.com/brianjtarte)
 
+[Day 1 Notes](day1.md)
+
