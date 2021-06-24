@@ -1,6 +1,6 @@
 # Day 1 Reading Notes
 
-## Today on Day 1 we Learned:
+## Today I Learned:
 
 1. What GitHub Pages is
 2. How to use Markdown
