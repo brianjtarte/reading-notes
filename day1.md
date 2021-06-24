@@ -13,4 +13,7 @@
 
 Markdown is a syntax that allows the user to style text on the web. It is similar in nature to HTML, but is much easer to read/write.
 
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
+
 [Home Page](index.md)

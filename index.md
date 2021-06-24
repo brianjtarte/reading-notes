@@ -18,7 +18,7 @@ This page is where you can find notes from my daily readings.
 
 To me, the "Growth Mindset" is about acknowledging your natural skills and abilities, recognizing that they don't define you, rather they are the foundation that you will build off of. It is understanding that you **CAN** achieve just about anything if you approach it with the proper frame of mind. It is understanding your current limitations and what resources you can leverage to flip them on their head. It is understanding that you only fail if you stop trying; if instead you look at your failures as teachable moments and apply what you've learned, you can find success in every facet of life.
 
-### Staying in the Growth Mindset
+### ***Staying*** in the Growth Mindset
 - Commit to effort. When effort ceases to exist, you cannot maintain a growth mindset.
 - Reset to get unstuck. Instead of pushing problems aside to be dealt with later, take a step back, practice mindfulness, and reapproach the problem after I have cleared my headspace.
 - Ask myself, "What made me smile today?" and then once I've answered that question, "What would you have done differently today?"

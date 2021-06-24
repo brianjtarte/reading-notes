@@ -10,5 +10,9 @@ Git is a version control system that allows developers to work on the same code.
 1. How to clone GitHub to our local computer
 1. Making local changes using Git and pushing them to GitHub
 
+Git Resources:
+[Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_3)
+
+
 [Home Page](index.md
 )
