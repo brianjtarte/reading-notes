@@ -24,9 +24,12 @@ To me, the "Growth Mindset" is about acknowledging your natural skills and abili
 - Ask myself, "What made me smile today?" and then once I've answered that question, "What would you have done differently today?"
 
 
+### ***Table of Contents***
 [Find my GitHub Profile HERE](https://www.github.com/brianjtarte)
 
 [Day 1 Notes](day1.md)
+
 [Day 2 Notes](day2.md)
+
 [Day 3 Notes](day3.md)
 
