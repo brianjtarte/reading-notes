@@ -13,5 +13,19 @@ Today, we learned how to use the basic functions of the terminal, which is a **t
 
 It is important that you find what works best for you and your situation. There are plenty of great text editors to choose from, some free, and some paid.
 
+## Terminal Cheats 
+
+*cd = Change directory
+ls = list all items in the directory
+mkdir = create a new directory
+cd .. = go back a level in the directory
+touch myfile.txt = create a new file called "myfile.txt"
+code myfile.txt = open myfile.txt into VSCode
+cp nameoffile.ext [newlocationoffile] = copy a file to a new location (cp myfile.txt ../folder2)
+mv nameoffile.ext [newlocationofFile] = move the file to a new location (example: mv myfile.txt ../folder2)
+rm myfile.txt = remove/delete file*
+
+
+
 [Home Page](index.md)
 
