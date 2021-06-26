@@ -74,3 +74,5 @@ Title = Title of page, appaears on the browser tab the page is loaded in
 Body = This element is where ALL the content that you want to show to web users goes
 
 Semantics refers to the meaning of a piece of code. There are roughly 100 semantic elements available.
+
+[Home](index.md)
