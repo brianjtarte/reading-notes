@@ -30,5 +30,5 @@ Git Resources:
 [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_3)
 
 
-[Home Page](index.md
+[Home Page](README.md
 )

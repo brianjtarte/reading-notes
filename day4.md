@@ -75,4 +75,4 @@ Body = This element is where ALL the content that you want to show to web users 
 
 Semantics refers to the meaning of a piece of code. There are roughly 100 semantic elements available.
 
-[Home](index.md)
+[Home](README.md)

@@ -20,4 +20,4 @@ Resources for CSS:
 - [How to Add CSS](https://www.w3schools.com/css/css_howto.asp)
 - [Style Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-[Home](index.md)
+[Home](README.md)
