@@ -27,5 +27,4 @@ rm myfile.txt = remove/delete file*
 
 
 
-[Home Page](README.md)
-
+[Home Page](index.md)

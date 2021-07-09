@@ -12,4 +12,4 @@
 
 **Functions can be called on multiple times in a document, and can always access global variables, however, variables designated within a function cannot be accessed outside of that.**
 
-[Home](README.md)
+[Home Page](index.md)

@@ -26,4 +26,4 @@ Re-do your assignments from 102! Go back and just keep building. If you get bore
 
 8.[Personal Favorite for practicing ANY language...do math. This will be more helpful in the higher level courses:](https://projecteuler.net/)
 
-[Home](README.md)
+[Home Page](index.md)

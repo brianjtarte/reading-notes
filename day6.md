@@ -30,4 +30,4 @@ It is a scripting language that is primarily used for front-end development, or 
 
 Variable reassignment changes variable for the remainder of the document
 
-- [Home](README.md)
+[Home Page](index.md)

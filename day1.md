@@ -16,4 +16,4 @@ Markdown is a syntax that allows the user to style text on the web. It is simila
 [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 
-[Home Page](README.md)
+[Home Page](index.md)
