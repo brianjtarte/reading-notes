@@ -53,7 +53,7 @@ To me, the "Growth Mindset" is about acknowledging your natural skills and abili
 
 ### Code 201 Reading Notes
 
-- [Day 1 Notes](201-1.md)
+- [Day 1 Notes](class-01.md)
 
 - [Day 2 Notes](201-2.md)
 
