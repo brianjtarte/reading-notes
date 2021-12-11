@@ -82,3 +82,7 @@ To me, the "Growth Mindset" is about acknowledging your natural skills and abili
 - [Day 14 Notes](201-14.md)
 
 - [Day 15 Notes](201-15.md)
+
+### Code 301 Reading Notes
+
+- [Day 1 Notes](301-1.md)
