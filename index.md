@@ -2,8 +2,6 @@
 
 My name is Brian, and I'm here in an effort to change my career path to something I will find more rewarding and challenging. I have spent the last decade in Supply Chain Operations, with a deep understanidng of e-commerce, and prior to that, I'd served 5 years in Marine Corps aviation.
 
-On a more personal level, I have a ***beautiful*** fiance named Tiara, who is a wonderful bonus mom to my 7 year old son, Hunter, and is pregnant with our first child together, Emma.
-
 ##### We have 3 dogs, and their names are:
 1. Chomper (American Bulldog/Pitbull mix). He's a gentle giant and easily the laziest dog I have ever met.
 2. Missy (Pitbull/Something high energy/super fast mix). We rescued her, and she must be near a human heartbeat at all times. She's also missing quite a few brain cells.
