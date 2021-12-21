@@ -57,3 +57,6 @@
 ## Code 301 Reading Notes
 
 - [Day 1 Notes](301-1.md)
+- [Day 2 Notes](301-2.md)
+- [Day 3 Notes](301-3.md)
+- [Day 4 Notes](301-4.md)
