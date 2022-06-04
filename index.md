@@ -106,3 +106,8 @@ To me, the "Growth Mindset" is about acknowledging your natural skills and abili
 - [Day 3 Notes](401-3.md)
 - [Day 4 Notes](401-4.md)
 - [Day 5 Notes](401-5.md)
+- [Day 6 Notes](401-6.md)
+- [Day 7 Notes](401-7.md)
+- [Day 8 Notes](401-8.md)
+- [Day 9 Notes](401-9.md)
+- [Day 10 Notes](401-10.md)
