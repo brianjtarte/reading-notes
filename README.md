@@ -86,4 +86,5 @@
 - [Day 10 Notes](401-10.md)
 - [Day 12 Notes](401-12.md)
 - [Day 13 Notes](401-13.md)
-
+- [Day 14 Notes](401-14.md)
+- [Day 16 Notes](401-16.md)
