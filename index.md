@@ -121,3 +121,4 @@ To me, the "Growth Mindset" is about acknowledging your natural skills and abili
 - [Day 30 Notes](401-30.md)
 - [Day 31 Notes](401-31.md)
 - [Day 34 Notes](401-34.md)
+- [Day 35 Notes](401-35.md)
